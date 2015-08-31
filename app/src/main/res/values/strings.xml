@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">projeto_aeronave</string>
+
+    <string name="projeto_aeronave">Projeto Aeronave</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_voos_disponiveis">VoosDisponiveis</string>
+    <string name="voos">Voos Disponiveis:</string>
+
+    <string name="origem">Selecione Origem:</string>
+    <string-array name="origem">
+        <item>São Paulo</item>
+        <item>Rio de Janeio</item>
+        <item>João Pessoa</item>
+        <item>Fortaleza</item>
+    </string-array>
+
+    <string name="destino">Selecione Destino:</string>
+    <string-array name="destino">
+        <item>São Paulo</item>
+        <item>Rio de Janeio</item>
+        <item>João Pessoa</item>
+        <item>Fortaleza</item>
+    </string-array>
+    <string name="Ok">OK</string>
+
+    <string-array name="voosDisponiveisBrasil">
+        <item>São Paulo - Rio de Janeiro (8:00h)</item>
+        <item>Rio de Janeiro - João Pessoa (8:30h)</item>
+        <item>João Pessoa - Fortaleza (9:00)</item>
+        <item>Fortaleza - São Paulo (10:00)</item>
+        <item>São Paulo - Fortaleza (10:30)</item>
+        <item>Fortaleza - Rio de Janeiro (12:20)</item>
+        <item>João Pessoa - São Paulo (13:00)</item>
+        <item>Fortaleza - São Paulo (14:00)</item>
+        <item>Rio de Janeiro - João Pessoa (18:00)</item>
+    </string-array>
+
+</resources>
